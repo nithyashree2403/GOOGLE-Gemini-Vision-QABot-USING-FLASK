@@ -1,0 +1,4 @@
+IPython
+flask
+google-generativeai
+python-dotenv
