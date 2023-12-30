@@ -61,3 +61,7 @@ To use this chat interface, you need to obtain an API key from the [Google AI De
 - `app.py`: Main script for the Flask application.
 - `requirements.txt`: Lists Python dependencies.
 
+## Note
+
+This project is created for educational purposes only. Please ensure that you comply with the terms and conditions of the Google Gemini API.
+
